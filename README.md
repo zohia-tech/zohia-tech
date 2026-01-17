@@ -1,37 +1,123 @@
-<h1 align="center">Hi 👋, I'm zohia</h1>
-<h3 align="center">🔹 Profile Intro 👋 About Me 🚀 What I’m Learning 🎯 Goals & Interests 🔹 Technical Skills 💻 Web Development Skills 🧱 Frontend Basics 🛠 Tools & Technologies 🔹 Languages & Tech Stack 🌐 Languages I Use ⚙️ Technologies I’m Working With 📚 Currently Exploring 🔹 Projects 📂 My Projects 🧪 Practice Projects 🧠 Learning Projects 🔹 Learning Journey 📖 My Learning Journey 🌱 Beginner but Consistent 🛣 Roadmap Ahead 🔹 Cyber / Tech Interest (agar add karna chaho) 🔐 Interest in Cybersecurity 🌐 Networking Basics 🧠 Security Concepts (Beginner Level) 🔹 Extras (Optional but cool) 📊 GitHub Stats 🤝 Let’s Connect ✨ Fun Fact About Me</h3>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Zohia!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zohia-tech&label=Profile%20views&color=0e75b6&style=flat" alt="zohia-tech" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Web+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Lifelong+Learner+%F0%9F%93%9A;Building+Something+Amazing+%E2%9C%A8" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zohia-tech" alt="zohia-tech" /></a> </p>
-
-- 🔭 I’m currently working on **Web Development Fundamentals**
-
-- 🌱 I’m currently learning **I’m currently learning web development, JavaScript, and basic cybersecurity concepts.**
-
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on web development and beginner-friendly projects**
-
-- 🤝 I’m looking for help with **I’m looking for help with web development projects and coding best practices**
-
-- 💬 Ask me about **Ask me about web development, JavaScript, and beginner coding projects**
-
-- 📫 How to reach me **zohia758@gmail.com**
-
-- ⚡ Fun fact **I collect little coding challenges to improve every day.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zohia695574" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zohia695574" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zohia afaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zohia afaq" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zohia-tech&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/zohia-tech?label=Followers&style=for-the-badge&color=blue" alt="followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zohia-tech&show_icons=true&locale=en&layout=compact" alt="zohia-tech" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zohia-tech&show_icons=true&locale=en" alt="zohia-tech" /></p>
+```javascript
+const zohia = {
+    location: "Karachi, Pakistan 🇵🇰",
+    currentFocus: "Web Development & Cybersecurity",
+    learning: ["JavaScript", "React", "Security Concepts"],
+    goals: "Build impactful projects and master full-stack development",
+    funFact: "I collect coding challenges to level up every day! 💡"
+};
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zohia-tech&" alt="zohia-tech" /></p>
+- 🔭 Currently working on **Web Development Fundamentals**
+- 🌱 Learning **JavaScript, React, and Cybersecurity Basics**
+- 👯 Open to collaborate on **Web Development & Beginner-Friendly Projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, and Coding Best Practices**
+- 📫 Reach me: **zohia758@gmail.com**
+- ⚡ Fun fact: **I turn coffee into code** ☕➡️💻
 
-Support 🙏
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zohia-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zohia-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohia-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zohia-tech&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</div>
+
+---
+
+## 🌱 Learning Journey
+
+```
+📚 Current Focus Areas:
+├── 💻 Web Development
+│   ├── JavaScript Fundamentals
+│   ├── DOM Manipulation
+│   └── Responsive Design
+├── 🔐 Cybersecurity
+│   ├── Network Basics
+│   ├── Security Fundamentals
+│   └── Ethical Hacking Concepts
+└── 🚀 Next Steps
+    ├── React.js
+    ├── Node.js
+    └── Full-Stack Projects
+```
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zohia-afaq)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zohia695574)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zohia758@gmail.com)
+
+</div>
+
+---
+
+## 💭 Quote of the Day
+
+<div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🌟 Show some ❤️ by starring some repositories!
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
